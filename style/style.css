@@ -1,0 +1,255 @@
+.b {
+
+
+    align-content: center;
+    display: flex;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+}
+.preloader{
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+}
+
+.loader {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 1px;
+    height: 100vh;
+}
+
+
+.el {
+    position: absolute;
+    opacity: 1;
+    width: 2px;
+    height: 24vh;
+    margin-top: -12vh;
+    transform-origin: 50% 100%;
+    background: white;
+}
+.main{
+    margin:0;
+    padding:0;
+    width: 100%;
+    height: 100vh;
+}
+
+
+
+#cssProperties{
+    display: flex;
+    height: 117px;
+
+
+}
+#cssProperties2{
+    display: flex;
+    height: 117px;
+}
+#cssProperties3{
+    display: flex;
+    height: 117px;
+
+}
+#cssProperties4{
+    display: flex;
+    height: 117px;
+}
+#cssProperties5{
+    display: flex;
+    height: 117px;
+
+}
+#cssProperties6{
+    display: flex;
+    height: 117px;
+}
+#cssProperties7{
+    display: flex;
+    height: 117px;
+
+}
+#cssProperties8{
+    display: flex;
+    height: 117px;
+}
+#cssProperties9{
+    display: flex;
+    height: 117px;
+
+}
+#cssProperties10{
+    display: flex;
+    height: 117px;
+}
+#cssProperties11{
+    display: flex;
+    height: 117px;
+
+}
+#cssProperties12{
+    display: flex;
+    height: 117px;
+}
+#cssProperties13{
+    display: flex;
+    height: 117px;
+
+}
+#cssProperties14{
+    display: flex;
+    height: 117px;
+}
+#cssProperties15{
+    display: flex;
+    height: 117px;
+
+}
+#cssProperties16{
+    display: flex;
+    height: 117px;
+}
+#cssProperties17{
+    display: flex;
+    height: 117px;
+
+}
+#cssProperties18{
+    display: flex;
+    height: 117px;
+}
+#cssProperties19{
+    display: flex;
+    height: 117px;
+}
+#cssProperties20{
+    display: flex;
+    height: 117px;
+
+}
+#cssProperties21{
+    display: flex;
+    height: 117px;
+}
+#cssProperties22{
+    display: flex;
+    height: 117px;
+
+}
+#cssProperties23{
+    display: flex;
+    height: 117px;
+}
+#cssProperties24{
+    display: flex;
+    height: 117px;
+
+}
+
+
+
+
+
+#result,
+#result2,
+#result3,
+#result4,
+#result5,
+#result6,
+#result7,
+#result8,
+#result9,
+#result10,
+#result11,
+#result12,
+#result13,
+#result14,
+#result15,
+#result16,
+#result17,
+#result18,
+#result19,
+#result20,
+#result21,
+#result22,
+#result23,
+#result24{
+    height: 117px;
+    width: 80px;
+
+
+}
+
+
+.main {
+    height: 850px;
+    background-image: url(../images/background.jpg);
+    background-size: auto;
+}
+
+.container-fluid {
+    box-sizing: border-box;
+    display: flex;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.middle_box {
+
+    width: 800px;
+    height: 600px;
+
+}
+
+.nav_bar {
+
+}
+
+.rune_box {
+
+}
+
+.class-row1 {
+    display: flex;
+    justify-content: space-between;
+    height: 137px;
+}
+
+.class-row2 {
+    display: flex;
+    justify-content: space-between;
+    height: 137px;
+}
+
+.class-row3 {
+    display: flex;
+    justify-content: space-between;
+    height: 137px;
+}
+
+.class-row4 {
+    display: flex;
+    justify-content: space-between;
+    height: 137px;
+}
+
