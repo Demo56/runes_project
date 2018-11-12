@@ -206,7 +206,8 @@
 #result24{
     height: 117px;
     width: 80px;
-
+    border: 1px white;
+    border-radius: 3em;
 
 }
 
@@ -236,13 +237,6 @@
 
 }
 
-.nav_bar {
-
-}
-
-.rune_box {
-
-}
 
 .class-row1 {
     display: flex;
