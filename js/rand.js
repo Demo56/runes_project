@@ -34,21 +34,24 @@ var usedImagesCount = 0;
 
 function getImg() {
 
-    var randomNum = Math.floor(Math.random() * (word_array.length-1));
+
+    var randomNum = Math.floor(Math.random() * (word_array.length - 1));
     if (!usedImages[randomNum]) {
         document.getElementById("result").innerHTML = '<img src="' + word_array[randomNum] + '">';
         usedImages[randomNum] = true;
         usedImagesCount++;
-        if (usedImagesCount === word_array.length-1) {
+        if (usedImagesCount === word_array.length - 1) {
             usedImagesCount = 0;
             usedImages = {};
         }
     } else {
         getImg();
+
+
     }
 
-
 }
+
 function getImg2() {
 
     var randomNum = Math.floor(Math.random() * (word_array.length-1));
