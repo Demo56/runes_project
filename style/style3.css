@@ -85,96 +85,6 @@
     display: flex;
     height: 117px;
 }
-#cssProperties5{
-    display: flex;
-    height: 117px;
-
-}
-#cssProperties6{
-    display: flex;
-    height: 117px;
-}
-#cssProperties7{
-    display: flex;
-    height: 117px;
-
-}
-#cssProperties8{
-    display: flex;
-    height: 117px;
-}
-#cssProperties9{
-    display: flex;
-    height: 117px;
-
-}
-#cssProperties10{
-    display: flex;
-    height: 117px;
-}
-#cssProperties11{
-    display: flex;
-    height: 117px;
-
-}
-#cssProperties12{
-    display: flex;
-    height: 117px;
-}
-#cssProperties13{
-    display: flex;
-    height: 117px;
-
-}
-#cssProperties14{
-    display: flex;
-    height: 117px;
-}
-#cssProperties15{
-    display: flex;
-    height: 117px;
-
-}
-#cssProperties16{
-    display: flex;
-    height: 117px;
-}
-#cssProperties17{
-    display: flex;
-    height: 117px;
-
-}
-#cssProperties18{
-    display: flex;
-    height: 117px;
-}
-#cssProperties19{
-    display: flex;
-    height: 117px;
-}
-#cssProperties20{
-    display: flex;
-    height: 117px;
-
-}
-#cssProperties21{
-    display: flex;
-    height: 117px;
-}
-#cssProperties22{
-    display: flex;
-    height: 117px;
-
-}
-#cssProperties23{
-    display: flex;
-    height: 117px;
-}
-#cssProperties24{
-    display: flex;
-    height: 117px;
-
-}
 
 
 
@@ -183,38 +93,22 @@
 #result,
 #result2,
 #result3,
-#result4,
-#result5,
-#result6,
-#result7,
-#result8,
-#result9,
-#result10,
-#result11,
-#result12,
-#result13,
-#result14,
-#result15,
-#result16,
-#result17,
-#result18,
-#result19,
-#result20,
-#result21,
-#result22,
-#result23,
-#result24{
+#result4
+{
     height: 117px;
     width: 80px;
-    border: 1px white;
-    border-radius: 3em;
+    color: black;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
-
-.img-fluid{
-
+.title1{
+    color: black;
+    font-size: 50px;
+    display: table-cell;
 }
-
 
 .main {
     height: 850px;
@@ -235,7 +129,7 @@
 }
 
 .middle_box {
-
+    margin-top: 120px;
     width: 800px;
     height: 600px;
 
@@ -244,25 +138,20 @@
 
 .class-row1 {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     height: 137px;
 }
 
 .class-row2 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     height: 137px;
 }
 
 .class-row3 {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     height: 137px;
 }
 
-.class-row4 {
-    display: flex;
-    justify-content: space-between;
-    height: 137px;
-}
 

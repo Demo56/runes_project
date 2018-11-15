@@ -9,7 +9,7 @@ var word_array = [
     'images/7.jpg',
     'images/8.jpg',
     'images/9.jpg',
-    'images/10.jpg',
+    'images/10jpg',
     'images/11.jpg',
     'images/12.jpg',
     'images/13.jpg',
